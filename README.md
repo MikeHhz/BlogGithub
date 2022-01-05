@@ -1,2 +1,0 @@
-# BlogUnitec
-Blog de prueba 
